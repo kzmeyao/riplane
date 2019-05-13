@@ -4,10 +4,14 @@ Triplane was a real-time, collaborative trip planner. It started out as a hackat
 
 ### Screenshots
 
+This is the home page for unauthenticated users.
+
 ![home page for unauthenticated users](assets/homepage.jpg)
 
+This is what users see when they log in.
 ![home page for authenticated users](assets/logged-in.jpg)
 
+This is the main page for planning a trip. A combination of Pinterest plus Trello.
 ![trip page for authenticated users](assets/trip-page.jpg)
 
 ### User Flows
