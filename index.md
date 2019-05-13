@@ -4,6 +4,12 @@ Triplane was a real-time, collaborative trip planner. It started out as a hackat
 
 ### Screenshots
 
+![home page for unauthenticated users](assets/homepage.jpg)
+
+![home page for authenticated users](assets/logged-in.jpg)
+
+![trip page for authenticated users](assets/trip-page.jpg)
+
 ### User Flows
 
 Creating a new trip from scratch.
