@@ -26,18 +26,18 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-Creating a new trip from existing Expedia bookings.
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/J9R3yGU7nhk" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 Adding things-to-do cards to the trip (two ways)
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/VdrRF8vhuhQ" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+Creating a new trip from existing Expedia bookings.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/J9R3yGU7nhk" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
